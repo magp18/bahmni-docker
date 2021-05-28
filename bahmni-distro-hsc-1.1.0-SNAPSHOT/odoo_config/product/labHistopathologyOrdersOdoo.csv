@@ -1,0 +1,7 @@
+id,name,product_variant_ids/uuid,product_variant_ids/categ_id/id,type,lst_price
+hsc_LAH1001,LAH1001 - BAAF,6b3a19f3-3920-4f1a-93e1-f8548502499a,product.categ_services_lab_histo_test_orders,service,1000
+hsc_LAH1002,LAH1002 - Biopsie ,2102a4be-3938-4f75-b69f-35c7b528d657,product.categ_services_lab_histo_test_orders,service,2500
+hsc_LAH1003,LAH1003 - Biopsie+ Colposcopie,5e0afd88-3d7f-402a-8905-be707b626963,product.categ_services_lab_histo_test_orders,service,3000
+hsc_LAH1004,LAH1004 - Cytologie (frozen sop),cf03cfb1-9a41-45e9-9967-8202f12cb843,product.categ_services_lab_histo_test_orders,service,2500
+hsc_LAH1005,LAH1005 - Pap Test,5783c597-98ff-4ada-a8f5-e04b03199aa1,product.categ_services_lab_histo_test_orders,service,600
+hsc_LAH1006,LAH1006 - Recherche de Cellules Malignes,9d868dfe-f193-4f90-a1c5-67401d35dbd0,product.categ_services_lab_histo_test_orders,service,1250

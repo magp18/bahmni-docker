@@ -1,0 +1,22 @@
+id,name,product_variant_ids/uuid,product_variant_ids/categ_id/id,type,lst_price
+hsc_OPH1001,OPH1001 - Bilan Ophtalmologique,0a51c982-6dec-4603-a325-35de01485d26,product.categ_services_ophtamology_orders,service,250
+hsc_OPH1002,OPH1002 - Cataracte Chirurgie ,4ea71bc2-ef6f-429d-8d20-c6dbfd9ee9a1,product.categ_services_ophtamology_orders,service,6000
+hsc_OPH1003,OPH1003 - Cataracte ECCE Chirurgie,b06c61da-4c87-4524-8afd-a4bbb9deb1bd,product.categ_services_ophtamology_orders,service,2500
+hsc_OPH1004,OPH1004 - Cataracte PHACO Chirurgie,e215240e-9a7f-4245-8a70-d60883e43a02,product.categ_services_ophtamology_orders,service,6000
+hsc_OPH1005,OPH1005 - Cataracte SICS Chirurgie,4421e4d8-a45c-461a-8f79-349acedf06cc,product.categ_services_ophtamology_orders,service,2500
+hsc_OPH1006,OPH1006 - Chalazion,f48df36a-5f3f-4957-8394-882a9b644a20,product.categ_services_ophtamology_orders,service,5000
+hsc_OPH1007,OPH1007 - Chalazion (clous),bcf55380-d9f8-41cf-a6b5-cff8976608f2,product.categ_services_ophtamology_orders,service,2500
+hsc_OPH1008,OPH1008 - Champs Visuel,055981d0-829d-40b5-a77e-1b592366a883,product.categ_services_ophtamology_orders,service,250
+hsc_OPH1009,OPH1009 - Conjonctive Chirurgie,ce085362-8bde-4973-bb8b-1469c30f1c06,product.categ_services_ophtamology_orders,service,5000
+hsc_OPH1010,OPH1010 - Evisération Oeil,35940fe0-2ded-4213-bc4c-3f473c342546,product.categ_services_ophtamology_orders,service,10000
+hsc_OPH1011,OPH1011 - Fondoscopie,5dad0411-5c6a-4dc3-8303-ac955e8eee5e,product.categ_services_ophtamology_orders,service,500
+hsc_OPH1012,OPH1012 - Glaucome Laser SLT Chirurgie,1ac2ac07-a2f6-432a-8870-d7663fc56dee,product.categ_services_ophtamology_orders,service,5000
+hsc_OPH1013,OPH1013 - Glaucome/Laser Chrurgie,4db64989-c448-4861-96b1-248e15f728ed,product.categ_services_ophtamology_orders,service,5000
+hsc_OPH1014,OPH1014 - Glaucome/Trabeculectomie Chirurgie,941ea42f-5182-4099-b914-cdc961793097,product.categ_services_ophtamology_orders,service,6000
+hsc_OPH1015,OPH1015 - Oeil absces / Kyste - Drainage,9f6900e7-0fc4-43e6-8963-047c97f9e045,product.categ_services_ophtamology_orders,service,5000
+hsc_OPH1016,OPH1016 - Plaie Cornéenne/Sclérotique-Adulte,bbf99633-363f-451f-92f0-1d3b1108d71d,product.categ_services_ophtamology_orders,service,5000
+hsc_OPH1017,OPH1017 - Plaie Cornéenne/Sclérotique-Enfant,4f4aa456-dd7d-4b7d-bc7a-2e5f4ec1fab8,product.categ_services_ophtamology_orders,service,7500
+hsc_OPH1018,OPH1018 - Pterygion,a7184d95-dd22-4609-80b3-a878771a62fa,product.categ_services_ophtamology_orders,service,5000
+hsc_OPH1019,OPH1019 - Réfraction,53bb5837-c54f-4436-92af-fb8d41079f8e,product.categ_services_ophtamology_orders,service,750
+hsc_OPH1020,OPH1020 - Réparation Plaie de la paupière,8a691c8b-31fa-4baf-bead-be455d4f1d26,product.categ_services_ophtamology_orders,service,5000
+hsc_OPH1021,OPH1021 - Rétinoscopie,7a9d98c1-a030-4e17-8e4f-7620597360d1,product.categ_services_ophtamology_orders,service,750

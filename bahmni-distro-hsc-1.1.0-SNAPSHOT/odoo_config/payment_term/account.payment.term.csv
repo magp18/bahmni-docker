@@ -1,0 +1,3 @@
+"id","name","company_id/id","line_ids/days","line_ids/option","line_ids/sequence","line_ids/value","line_ids/value_amount"
+"init.account_payment_term_60days","60 Days","base.main_company","60","Day(s) after the invoice date","500","Balance","0.0"
+"account.account_payment_term_90days","90 Days","base.main_company","90","Day(s) after the invoice date","10","Balance","0.0"

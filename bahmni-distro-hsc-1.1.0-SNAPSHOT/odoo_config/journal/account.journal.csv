@@ -1,0 +1,5 @@
+id,name,code,type,default_credit_account_id/id,default_debit_account_id/id
+init.cash_journal,Cash,CASH,Sale,hsc_account_1020,hsc_account_1020
+init.bank_journal,Bank,BNK,Sale,hsc_account_1020,hsc_account_1020
+init.credit_card_journal,Credit Card,CC,Sale,hsc_account_1020,hsc_account_1020
+init.cheque_journal,Cheque,CHK,Sale,hsc_account_1020,hsc_account_1020

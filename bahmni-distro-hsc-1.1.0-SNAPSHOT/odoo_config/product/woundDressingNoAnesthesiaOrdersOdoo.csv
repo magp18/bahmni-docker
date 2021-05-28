@@ -1,0 +1,11 @@
+id,name,product_variant_ids/uuid,product_variant_ids/categ_id/id,type,lst_price
+hsc_PAN1001,PAN1001 - Brûlure < 10% sans anesthésie,22505348-ffea-43f4-8477-187b6e310977,product.categ_services_woundNoAnesth_orders,service,1500
+hsc_PAN1002,PAN1002 - Brûlure < 10%.  Premier Pansement sans anesthésie,924222a5-27e2-4412-9092-767979d87c56,product.categ_services_woundNoAnesth_orders,service,2500
+hsc_PAN1003,PAN1003 - Brûlure entre < 20%. Premier Pansement sans anesthésie,f9116b2d-3d03-4539-8d97-c0e2709b02d6,product.categ_services_woundNoAnesth_orders,service,2000
+hsc_PAN1004,PAN1004 - Brulure entre >50%   sans anesthésie,9c11f83d-0161-494a-b452-e30bd81c5816,product.categ_services_woundNoAnesth_orders,service,5000
+hsc_PAN1005,PAN1005 - Brulure entre >50%  1er pansement sans anesthésie,eaeec5f7-2c57-4480-a693-c02769aff07e,product.categ_services_woundNoAnesth_orders,service,6250
+hsc_PAN1006,PAN1006 - Brûlure entre 10 et 20% Premier Pansement  sans anesthésie,dfaa8634-6347-40d0-bf25-719994850a7b,product.categ_services_woundNoAnesth_orders,service,2500
+hsc_PAN1007,PAN1007 - Brulure entre 20 à 50%   sans anesthésie,32ec0c19-28ab-4a33-90f0-51877dd66082,product.categ_services_woundNoAnesth_orders,service,3500
+hsc_PAN1008,PAN1008 - Brulure entre 20 à 50% 1er pansement sans anesthésie,6918f2eb-4753-410d-8bea-693f4c7c5dfc,product.categ_services_woundNoAnesth_orders,service,5000
+hsc_PAN1009,PAN1009 - Débridement Brulure >50% sans anesthésie,fe5a30cf-ca2f-48fe-b86b-1aebf9b390ce,product.categ_services_woundNoAnesth_orders,service,5000
+hsc_PAN1010,PAN1010 - Débridement Brulure entre 20 à 50% sans anesthésie,11f63a84-9932-4c85-8ca7-e6a5b1a8df9b,product.categ_services_woundNoAnesth_orders,service,5000

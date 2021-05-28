@@ -1,0 +1,17 @@
+id,name,product_variant_ids/uuid,product_variant_ids/categ_id/id,type,lst_price
+hsc_CHP1001,CHP1001 - Bec de lièvre Réparation,f156a9dd-04ec-4adf-bf95-aafb41f99553,product.categ_services_plastic_surgery_orders,service,15000
+hsc_CHP1002,CHP1002 - Chéloide Multiple,c22a1b2f-9b64-467e-ac59-70289c051b9b,product.categ_services_plastic_surgery_orders,service,15000
+hsc_CHP1003,CHP1003 - Excision Chéloide +Réparation esthetique,4cadce42-1fa0-4fd8-b509-b950608ad321,product.categ_services_plastic_surgery_orders,service,15000
+hsc_CHP1004,CHP1004 - Fissure palatine Réparation,f44915a3-2d86-4b2f-9102-bc27240a7205,product.categ_services_plastic_surgery_orders,service,10000
+hsc_CHP1005,CHP1005 - Hémangiome fesse ou Neuro-fibromateux fesse,fcbb67da-b7fb-4ab8-8625-cbfd72c0733d,product.categ_services_plastic_surgery_orders,service,10000
+hsc_CHP1006,CHP1006 - Plastique Vaginale,e14fc32d-2ef5-4f11-b11a-184b5f6ba86b,product.categ_services_plastic_surgery_orders,service,20000
+hsc_CHP1007,CHP1007 - Reconstruction Abdomen,7b705c57-7b02-4fe4-807e-1c30f8553f5e,product.categ_services_plastic_surgery_orders,service,25000
+hsc_CHP1008,CHP1008 - Reconstruction Cou,0f2e001a-d3e2-4c9b-999d-69fffd65ab08,product.categ_services_plastic_surgery_orders,service,20000
+hsc_CHP1009,CHP1009 - Reconstruction Cuisse,0b6017db-f223-4df1-8dba-e7210722147f,product.categ_services_plastic_surgery_orders,service,20000
+hsc_CHP1010,CHP1010 - Reconstruction Dos,181c48c0-93b4-4f64-a6d5-adbed8036eee,product.categ_services_plastic_surgery_orders,service,20000
+hsc_CHP1011,CHP1011 - Reconstruction Face,5e59ea40-8067-4378-9bc4-f226022527d4,product.categ_services_plastic_surgery_orders,service,20000
+hsc_CHP1012,CHP1012 - Reconstruction Pied,167e44d1-3106-4a7c-ab86-078b552e87ee,product.categ_services_plastic_surgery_orders,service,20000
+hsc_CHP1013,CHP1013 - Reconstruction Tendon d'Achille,49c5ebfe-36b4-4a73-b74d-3ef92229abc4,product.categ_services_plastic_surgery_orders,service,20000
+hsc_CHP1014,CHP1014 - Reconstruction Thorax,22422729-5e21-475e-866e-8ceb14f25056,product.categ_services_plastic_surgery_orders,service,20000
+hsc_CHP1015,CHP1015 - Réduction Mammaire,ee3d3e37-9dfb-44c5-81a9-edbee7124b78,product.categ_services_plastic_surgery_orders,service,35000
+hsc_CHP1016,CHP1016 - Skin Graft,8ae61306-969e-40af-acd6-2b75973e8ed6,product.categ_services_plastic_surgery_orders,service,20000

@@ -1,0 +1,59 @@
+id,name,product_variant_ids/uuid,product_variant_ids/categ_id/id,type,lst_price
+hsc_OBG1001,OBG1001 - Accouchement simple (suivi à l'HSC),00843b8c-d5d9-4944-840b-29e3722fd955,product.categ_services_obstetrics_orders,service,5000
+hsc_OBG1002,OBG1002 - Accouchement simple (suivi hors de l'HSC),4db2da0d-7e8a-4574-a591-9e708966275e,product.categ_services_obstetrics_orders,service,7500
+hsc_OBG1003,OBG1003 - Accouchement simple + Episio (suivi à l'HSC),39a460e9-2b30-47ba-be3f-ec1a7e4dff26,product.categ_services_obstetrics_orders,service,6000
+hsc_OBG1004,OBG1004 - Accouchement simple + Episio (suivi hors de l'HSC),d4bd7c2b-3b80-43e8-8963-c863a09c9d9e,product.categ_services_obstetrics_orders,service,9000
+hsc_OBG1005,OBG1005 - Annexectomie,c9c2baca-06ee-4975-a2bc-f400f99c6ed4,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1006,OBG1006 - Biopsie cervicale,af2dbc02-6e0f-4552-a64f-50aeafc0ff53,product.categ_services_obstetrics_orders,service,7500
+hsc_OBG1007,OBG1007 - Biopsie endometriale,badfcdc6-3993-4d0a-af97-5c01d380bad9,product.categ_services_obstetrics_orders,service,8000
+hsc_OBG1008,OBG1008 - Cerclage,f643eccf-d435-4db6-a35d-85cc4d749657,product.categ_services_obstetrics_orders,service,15000
+hsc_OBG1009,OBG1009 - Césarienne (suivi à l'HSC),f16675de-d6bb-4fd1-914c-a25d8cf59465,product.categ_services_obstetrics_orders,service,15000
+hsc_OBG1010,OBG1010 - Césarienne (suivi hors de l'HSC),c2510453-994d-4a49-9016-a77e883382c0,product.categ_services_obstetrics_orders,service,20000
+hsc_OBG1011,OBG1011 - Césarienne + Hysterectomie (suivi à l'HSC),3517d312-8a22-4f60-a098-e9cc0bb5a49b,product.categ_services_obstetrics_orders,service,20000
+hsc_OBG1012,OBG1012 - Césarienne + Hysterectomie (suivi hors l'HSC),865bb6bf-b38b-4a6d-a013-834e450e26d5,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1013,OBG1013 - Colposcopie ,f6d6a23d-d031-4e05-ab6f-664c10fbeb1d,product.categ_services_obstetrics_orders,service,3000
+hsc_OBG1014,OBG1014 - Colposcopie + Biopsie,e8c4c0b5-08e1-4f3c-bab0-bf934e739bf2,product.categ_services_obstetrics_orders,service,6000
+hsc_OBG1015,OBG1015 - Condylome vulvaire (cauterisation),2f4be717-12e7-484c-9d23-1a62349355ca,product.categ_services_obstetrics_orders,service,10000
+hsc_OBG1016,OBG1016 - Conisation,0df66b96-17f7-4aac-81b2-9e0320d452a9,product.categ_services_obstetrics_orders,service,15000
+hsc_OBG1017,OBG1017 - Cryotherapie,c904b703-7df5-4e66-ab8b-95f9782e18f8,product.categ_services_obstetrics_orders,service,5000
+hsc_OBG1018,OBG1018 - Curage Digital,f86f6592-c77e-4808-ac66-a2b4b28f507f,product.categ_services_obstetrics_orders,service,2500
+hsc_OBG1019,OBG1019 - Curetage thérapeutique ,0fb10335-7163-4dd7-aea2-80cc0f34159c,product.categ_services_obstetrics_orders,service,8500
+hsc_OBG1020,OBG1020 - Curetage thérapeutique sous analgesie,e9e360c4-e097-4c57-a0fd-d88adddb9ef7,product.categ_services_obstetrics_orders,service,6000
+hsc_OBG1021,OBG1021 - Curetage thérapeutique/Avortement Provoqué Septique,d15a58e0-83a2-4d98-8eb7-3a902e2c524b,product.categ_services_obstetrics_orders,service,10000
+hsc_OBG1022,OBG1022 - Curetage thérapeutique/avortement spontané,4055ef29-03b3-47ef-a5a8-4b310be4fd64,product.categ_services_obstetrics_orders,service,8000
+hsc_OBG1023,OBG1023 - D&C (Curetage diagnostic+Biopsie),7ad13c05-feaf-49ba-ad05-7eaa7d2633c9,product.categ_services_obstetrics_orders,service,10000
+hsc_OBG1024,OBG1024 - D&C Post pap smear+Biopsie,705c9732-6d44-45c2-98dd-c834912e2113,product.categ_services_obstetrics_orders,service,10000
+hsc_OBG1025,OBG1025 - Délivrance Artificielle (accouchement hors HSC),f7bd36ae-ce11-4668-b69f-015f960824ac,product.categ_services_obstetrics_orders,service,2000
+hsc_OBG1026,OBG1026 - Délivrance Spontanée( accouchement hors HSC),681d5790-8069-45c6-96ce-9ebf2c254471,product.categ_services_obstetrics_orders,service,1500
+hsc_OBG1027,OBG1027 - Exerese masse pubienne,4b27d7d4-fefe-4454-87a0-254b65c534df,product.categ_services_obstetrics_orders,service,7500
+hsc_OBG1028,OBG1028 - Fistule recto-vaginal à l'HSC,e16bc465-fba9-4a73-9d27-c4b20bfe0620,product.categ_services_obstetrics_orders,service,30000
+hsc_OBG1029,OBG1029 - Fistule recto-vaginal hors l'HSC,d53229d6-7324-446b-a112-d625480f0105,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1030,OBG1030 - Fistule vesico-vaginal à l'HSC,1df30eed-47db-4470-aa26-b43001f08de5,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1031,OBG1031 - Fistule vesico-vaginal hors l'HSC,453925d7-b810-43c8-b407-9752935724e7,product.categ_services_obstetrics_orders,service,30000
+hsc_OBG1032,OBG1032 - Grossesse Extra Utérine/ectopique,0ec7f35e-da4f-4db9-a30b-afc79a518f3c,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1033,OBG1033 - Hymenectomie,f3b2e29b-d3be-4927-9a75-283c329db7f9,product.categ_services_obstetrics_orders,service,15000
+hsc_OBG1034,OBG1034 - Hysterectomie & Ovariectomie,746436a7-7d83-498a-b358-fb92a0dc1424,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1035,OBG1035 - Hystérectomie Abdominale ou Totale,f3cd9647-38d7-43a4-97a1-7849539f69f6,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1036,OBG1036 - Hystérectomie Radicale ( Wertheim),7a8888ea-8cf4-421d-82b0-1444648c016c,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1037,OBG1037 - Hystérectomie Totale + Annexectomie Bilatérale,d752a3b2-974d-4601-a9c7-16dbb38e7eda,product.categ_services_obstetrics_orders,service,30000
+hsc_OBG1038,OBG1038 - Hystérectomie Vaginale,213f3df0-30ce-426a-a6d0-3d9d9846442d,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1039,OBG1039 - Insertion Pessaire,83fd1843-3d49-47bd-9f85-5ab33153de74,product.categ_services_obstetrics_orders,service,5000
+hsc_OBG1040,OBG1040 - Kystectomie bilaterale,98b31292-6160-4561-b41c-bcb3aafc29c9,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1041,OBG1041 - Lacéroraphie + accouchement à l'HSC,0bcb5977-f400-4dd5-8967-d1e5e8f9e44b,product.categ_services_obstetrics_orders,service,11000
+hsc_OBG1042,OBG1042 - Lacéroraphie + accouchement hors de l'HSC,a401ae6a-37ef-471b-b160-62db66066403,product.categ_services_obstetrics_orders,service,15000
+hsc_OBG1043,OBG1043 - Laparotomie exploratrice,2dc055ec-efe8-468b-a1f9-79ceee07c1db,product.categ_services_obstetrics_orders,service,30000
+hsc_OBG1044,OBG1044 - Leep,832e95f0-9d9d-4b5e-8112-b6354d6fd1d6,product.categ_services_obstetrics_orders,service,10000
+hsc_OBG1045,OBG1045 - Leep (kyste cervical),8cbf55c9-e8d8-4745-bb2a-9330aec9f5a3,product.categ_services_obstetrics_orders,service,10000
+hsc_OBG1046,OBG1046 - Marsupialisation /Bartholimit,101e6776-f5d0-4cc8-a1fc-8d245a30f75d,product.categ_services_obstetrics_orders,service,10000
+hsc_OBG1047,OBG1047 - Myomectomie,6445c6f9-1e99-4855-a93c-c048e3794a90,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1048,OBG1048 - Myomectomie Reprise (1ère intervention à l'HSC),e5776e4e-ea8c-4268-89fc-c75f49ee1333,product.categ_services_obstetrics_orders,service,7500
+hsc_OBG1049,OBG1049 - Myomectomie Reprise (1ère intervention hors de l'HSC),ef3dc1bb-45b9-46b0-a936-4ce186dda4be,product.categ_services_obstetrics_orders,service,35000
+hsc_OBG1050,OBG1050 - Ovariectomie bilaterale,fcd1173b-5000-4a40-9e2b-3c9e14e7754e,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1051,OBG1051 - Ovariectomie unilaterale,59e1be8b-d963-4187-9dde-c48e2518d9dc,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1052,OBG1052 - Polypectomie du col,868a99e4-8561-4440-b738-a0189bcddec6,product.categ_services_obstetrics_orders,service,10000
+hsc_OBG1053,OBG1053 - Reprise Laparotomie (1ère intervention à l'HSC),24730392-f230-4fb6-b263-402b5b027d79,product.categ_services_obstetrics_orders,service,10000
+hsc_OBG1054,OBG1054 - Reprise Laparotomie (1ère intervention hors de l'HSC),331901eb-82bf-4148-8a14-9bbf420d53a2,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1055,OBG1055 - Reprise paroi (intervention à l'HSC),56ed4427-a0da-4055-bcad-4e857c883b1f,product.categ_services_obstetrics_orders,service,5000
+hsc_OBG1056,OBG1056 - Reprise paroi (intervention hors HSC),48747c02-6990-4eda-8a35-eb9bcecae165,product.categ_services_obstetrics_orders,service,15000
+hsc_OBG1057,OBG1057 - Salpingiectomie - grossesse ectopique,775cea36-be70-4bb5-bb34-e6ac3d61bdab,product.categ_services_obstetrics_orders,service,25000
+hsc_OBG1058,OBG1058 - Usage Ballonnet de Bakri,af098d76-edf3-46e7-89a2-70b4aabbc548,product.categ_services_obstetrics_orders,service,3000

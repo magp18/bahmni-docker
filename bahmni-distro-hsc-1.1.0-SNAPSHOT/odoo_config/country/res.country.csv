@@ -1,0 +1,11 @@
+id,name,state_ids/code,state_ids/name
+base.ht,Haiti,O,Ouest
+,,SE,Sud-Est
+,,GA,Grande-Anse
+,,N,Nord
+,,NE,Nord-Est
+,,A,Artibonite
+,,C,Centre
+,,S,Sud
+,,NI,Nippes
+,,NO,Nord-Ouest

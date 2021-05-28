@@ -1,0 +1,3 @@
+id,name,product_variant_ids/categ_id/id,type,lst_price
+haiti_VIS1001,Prenatal visit,product.visitType,service,350
+haiti_VIS1002,Consultation,product.visitType,service,50

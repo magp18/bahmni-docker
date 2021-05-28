@@ -1,0 +1,4 @@
+"id","name","product_variant_ids/uuid","product_variant_ids/categ_id/id","type","lst_price"
+"hsc_PLA1001","PLA1001 -Plaie delabrante / contuse","10bd95da-67ea-4ee4-abce-10a8daeb003f","product.categ_services_wounds_orders","service",5000
+"hsc_PLA1002","PLA1002 -Suture plaie etendue","ffa1910e-9f0e-4d37-b5f7-c8a37e0551f7","product.categ_services_wounds_orders","service",7500
+"hsc_PLA1003","PLA1003 -Suture plaie superficielle","becf2545-4333-4b8c-8585-1ccb34616c1a","product.categ_services_wounds_orders","service",5000

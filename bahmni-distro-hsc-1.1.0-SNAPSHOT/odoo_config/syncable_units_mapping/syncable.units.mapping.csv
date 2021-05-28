@@ -1,0 +1,20 @@
+id,name,unit_of_measure/id
+syncable_units_Ampoule(s),Ampoule(s),f303ec09-ab78-43d9-abf2-06839f4eb491
+syncable_units_Application,Application(s),41a8984e-c1c1-4512-bce9-978fe7dd6502
+syncable_units_Gelule(s),Gelule(s),57f78dee-f842-4c23-91b8-5d234fd036f7
+syncable_units_Dose,Dose(s),43519b0a-41dc-438c-820c-e3664f30d2ba
+syncable_units_Goutte(s),Goutte(s),2114fcb9-eab7-4ad7-afa3-ae043a542b4c
+syncable_units_IU,IU,6c761abc-b59a-4db8-b124-b0a69a812423
+syncable_units_mg,mg,9ee018c0-24c0-4cf0-ae66-de60d5b3298f
+syncable_units_ml,ml,1c8463f1-9563-4633-81f9-8e7642d55e48
+syncable_units_Paquet,Paquet(s),3606f9fe-9612-49af-a317-3877a075443c
+syncable_units_Bouffee(s),Bouffee(s),1f97c3a5-2786-447f-9da4-a60d3d3b5691
+syncable_units_Cuillere(s) a soupe,Cuillere(s) a soupe,e83da3df-d566-4306-a4a0-d14aebec3acc
+syncable_units_Comprime(s),Comprime(s),74ea4fb4-1b15-4530-98b4-eb21865d1a75
+syncable_units_Cuillere(s) a cafe,Cuillere(s) a cafe,a5fe3a74-9f74-433a-bf39-024239ab9167
+syncable_units_Unite(s),Unite(s),product.product_uom_unit
+syncable_units_Fiole(s),Fiole(s),42709d9b-83d7-4523-90ba-f2e6a52c59e6
+syncable_units_Bouteille(s),Bouteille(s),52c5bd1b-7679-45cc-ac8e-1eb8dd92ab7a
+syncable_units_Tube(s),Tube(s),0d0b3654-75ab-4315-9264-2ddbb1e9400c
+syncable_units_Inhalateur(s),Inhalateur(s),2b4ca899-528a-4b5a-a474-4adb2a299be2
+syncable_units_Conteneur(s),Conteneur(s),ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52

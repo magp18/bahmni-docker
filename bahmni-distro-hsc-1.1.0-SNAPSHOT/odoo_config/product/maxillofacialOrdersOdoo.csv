@@ -1,0 +1,12 @@
+id,name,product_variant_ids/uuid,product_variant_ids/categ_id/id,type,lst_price
+hsc_MAF1001,MAF1001 - Biospsie Cyst mandibular,3deffcfb-1f69-4e1c-9c24-d7f50ebe57dc,product.categ_services_maxillo_orders,service,20000
+hsc_MAF1002,MAF1002 - Drainage Kyste de la Mâchoire,8a2085fd-60e2-426b-9e8d-8c6e792b28f6,product.categ_services_maxillo_orders,service,15000
+hsc_MAF1003,MAF1003 - Exérèse d'une partie de la Mâchoire,4a7f7bd2-8ded-43c1-805b-c462ace35cd8,product.categ_services_maxillo_orders,service,25000
+hsc_MAF1004,MAF1004 - Exérèse Tumeur de la face,aeaff503-47d1-43ed-b6d1-e4c75bae4870,product.categ_services_maxillo_orders,service,20000
+hsc_MAF1005,MAF1005 - Fracture Vomer,ee4a414b-5bf2-4845-b471-23c5b6bac5da,product.categ_services_maxillo_orders,service,25000
+hsc_MAF1006,MAF1006 - Greffe de la Mâchoire,4814c8df-7f11-4939-8353-d024b8241da6,product.categ_services_maxillo_orders,service,30000
+hsc_MAF1007,MAF1007 - Reconstruction Fente Labiale,8de45f79-616f-4ba1-b270-8e16b48f1449,product.categ_services_maxillo_orders,service,20000
+hsc_MAF1008,MAF1008 - Reconstruction Fente Palatine,84713b27-aecc-49db-b711-f65703c6d06e,product.categ_services_maxillo_orders,service,20000
+hsc_MAF1009,MAF1009 - Reconstruction Tongue,88fe15df-64ff-46ed-968f-69e2c6e83893,product.categ_services_maxillo_orders,service,20000
+hsc_MAF1010,MAF1010 - Résection Cyst Facial,e8744790-4f23-4e2e-95d3-4320e62f9ffa,product.categ_services_maxillo_orders,service,15000
+hsc_MAF1011,MAF1011 - Submandibular glande Résection,b2b08484-0375-40e1-ad00-793b5d81965e,product.categ_services_maxillo_orders,service,20000

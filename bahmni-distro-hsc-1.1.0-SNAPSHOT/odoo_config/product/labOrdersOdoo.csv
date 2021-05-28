@@ -1,0 +1,71 @@
+id,name,product_variant_ids/uuid,product_variant_ids/categ_id/id,type,lst_price
+hsc_LAB1001,LAB1001 - Acide Urique,0d5c1650-d85c-4a58-85e6-eb91420651a8,product.categ_services_lab_test_orders,service,250
+hsc_LAB1002,LAB1002 - Anthrax Cutané- Skin Test,ced9aed7-15c9-4258-b48b-8b7f125b25e0,product.categ_services_lab_test_orders,service,250
+hsc_LAB1003,LAB1003 - Anthrax Gastrointestinal- Blood Test or Stool Test ,dbd29dc3-d268-4125-a71c-4eab9a27699b,product.categ_services_lab_test_orders,service,250
+hsc_LAB1004,LAB1004 - ADT (SGPT),28c4127b-6857-41ae-b435-1b6dd6e646ab,product.categ_services_lab_test_orders,service,250
+hsc_LAB1005,LAB1005 - Albumine,ef4638fd-a637-4736-8e1a-215d6c79630c,product.categ_services_lab_test_orders,service,250
+hsc_LAB1006,LAB1006 - Amylase,db6517e8-6ed4-4154-9d10-2c4f99fbe40c,product.categ_services_lab_test_orders,service,400
+hsc_LAB1007,LAB1007 - ASO (Antistreptolysine O),b2019143-39cb-418b-a900-e446b6935667,product.categ_services_lab_test_orders,service,250
+hsc_LAB1008,LAB1008 - AST (SGOT),c1102975-fa87-4879-a7f3-acc895876922,product.categ_services_lab_test_orders,service,250
+hsc_LAB1009,LAB1009 - Azote de l'Urée (BUN),72095655-8b6f-47d7-96b3-40e193e33a35,product.categ_services_lab_test_orders,service,250
+hsc_LAB1010,LAB1010 - BHCG,998dc3c9-a6c1-4224-a982-91f89d647c77,product.categ_services_lab_test_orders,service,200
+hsc_LAB1011,LAB1011 - Bilan Hépatique (AST-ALT-TBil-ALKP-LDH),c51ee728-41d8-4af5-ac54-6dc57615e457,product.categ_services_lab_test_orders,service,1250
+hsc_LAB1012,LAB1012 - Bilan Lipidique (Chol-Trig-HDLC-LDL-VLDL),f6bf9666-4776-4b0e-ae44-0bfa1d4cec06,product.categ_services_lab_test_orders,service,1000
+hsc_LAB1013,LAB1013 - Bilan Pré-Opératoire(Hemogramme-ABO&RB-PT&INR),65235e81-e4b5-41c0-a0a8-6daf7d10b3b6,product.categ_services_lab_test_orders,service,750
+hsc_LAB1014,LAB1014 - Bilan Renal (BUN-Creat-Urée-Acide Urique),d4b88db9-ba41-4764-bfdd-35f5d155cb97,product.categ_services_lab_test_orders,service,800
+hsc_LAB1015,LAB1015 - Bilan Thyroïdien,ab3b5775-7080-4cb1-8be5-54e367940145,product.categ_services_lab_test_orders,service,1500
+hsc_LAB1016,LAB1016 - Bilirubine Totale,817e15af-8590-4614-b0f0-cb2672e0e26f,product.categ_services_lab_test_orders,service,250
+hsc_LAB1017,LAB1017 - Calcium (Ca),8ea556d6-5e31-4d19-bf2a-81443375eca7,product.categ_services_lab_test_orders,service,250
+hsc_LAB1018,LAB1018 - Chimie Sanguine (Glycemie-BUN-Urée-Créatine) ,43402f97-6aed-43d4-912f-d89140693f6c,product.categ_services_lab_test_orders,service,750
+hsc_LAB1019,LAB1019 - Chlore (Cl),6a85f546-f4ee-4d38-9dcf-8c601f12ffcb,product.categ_services_lab_test_orders,service,250
+hsc_LAB1020,LAB1020 - Cholesterol,2666b434-17d4-414c-802d-e155ee7cd9af,product.categ_services_lab_test_orders,service,250
+hsc_LAB1021,LAB1021 - CO₂,3e29769f-ebe3-4ca7-9bcc-e3b016730974,product.categ_services_lab_test_orders,service,300
+hsc_LAB1022,LAB1022 - Crachat,e788ca17-90c2-4a09-ac98-fe5ea2dcfd1f,product.categ_services_lab_test_orders,service,300
+hsc_LAB1023,LAB1023 - Créatinine (CRSC),1f98b48a-6921-4190-9ded-5810d9fa3990,product.categ_services_lab_test_orders,service,250
+hsc_LAB1024,LAB1024 - Créatinine Kinase (CK),8727ce28-3eed-4d2c-b990-9e4c21e5716d,product.categ_services_lab_test_orders,service,350
+hsc_LAB1025,LAB1025 - Créatinine Kinase MB,c8618dba-16b9-4d9a-b3b0-8e633c2968f3,product.categ_services_lab_test_orders,service,350
+hsc_LAB1026,LAB1026 - CRP,670feb2f-185c-4afd-bb6e-dc5ae8164b3f,product.categ_services_lab_test_orders,service,250
+hsc_LAB1027,LAB1027 - ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff…),512ce3ef-5b64-457e-b56c-2548347aca2f,product.categ_services_lab_test_orders,service,1000
+hsc_LAB1028,LAB1028 - Fer (Fe),35e397ad-d51c-4385-80e6-19d7c77fccdd,product.categ_services_lab_test_orders,service,250
+hsc_LAB1029,LAB1029 - Filaire test Diurne,d7aa93d1-ca98-49d3-917b-f561969d0bc2,product.categ_services_lab_test_orders,service,200
+hsc_LAB1030,LAB1030 - Filaire test Nocturne,dc062ad8-5c62-4864-8046-0f8e67dcf739,product.categ_services_lab_test_orders,service,250
+hsc_LAB1031,LAB1031 - Frottis Uretral+ Goutte pendante,f966275a-cf12-429a-a003-33ca9969992a,product.categ_services_lab_test_orders,service,200
+hsc_LAB1032,LAB1032 - Frottis Vaginal+ Goutte pendante,7910ae39-34ff-4fd9-9065-aa4833959d02,product.categ_services_lab_test_orders,service,200
+hsc_LAB1033,LAB1033 - Globules Blanches,5b3419ba-a855-4686-86d2-f2d24e4599de,product.categ_services_lab_test_orders,service,250
+hsc_LAB1034,LAB1034 - Globules Rouges,e3fc9f71-3c29-4753-80ef-65f7a7bd431d,product.categ_services_lab_test_orders,service,250
+hsc_LAB1035,LAB1035 - Glycemie Capillaire,966ebae7-1140-440f-9a7c-683219f0b3ca,product.categ_services_lab_test_orders,service,150
+hsc_LAB1036,LAB1036 - Glycemie Plasmatique,b2261665-4f5a-4dbc-8318-4dc284db94c2,product.categ_services_lab_test_orders,service,250
+hsc_LAB1037,LAB1037 - Gravindex,7ee42212-569f-4724-8ef3-207f94f6e8a9,product.categ_services_lab_test_orders,service,200
+hsc_LAB1038,"LAB1038 - Groupe Sanguin (ABO, Rh)",2f428de1-d66c-440a-b9c9-cceffe485c00,product.categ_services_lab_test_orders,service,200
+hsc_LAB1039,LAB1039 - Hemogramme Complet,63452a30-0268-4b0c-97b4-a161e27a2f10,product.categ_services_lab_test_orders,service,250
+hsc_LAB1040,LAB1040 - H-Pilori dans les selles,e8b91e4a-db76-41fe-8386-b0d660ebb267,product.categ_services_lab_test_orders,service,750
+hsc_LAB1041,LAB1041 - H-Pilori test,b3532576-d6f9-4373-9c1e-f0211ffb06dc,product.categ_services_lab_test_orders,service,500
+hsc_LAB1042,"LAB1042 - Ionogramme (Na, K, Cl, CO₂)",0828ef1a-9ba4-43e0-8033-04b19b593f95,product.categ_services_lab_test_orders,service,1000
+hsc_LAB1043,LAB1043 - Lame Peripherique,dd83004a-8651-469a-935f-275fddec31cb,product.categ_services_lab_test_orders,service,150
+hsc_LAB1044,LAB1044 - LDH,8099b02a-6ef7-499c-9a5a-2d8e2604f80a,product.categ_services_lab_test_orders,service,350
+hsc_LAB1045,LAB1045 - Lipase,72dc7c29-1890-4fc8-a3a8-41a720565d56,product.categ_services_lab_test_orders,service,400
+hsc_LAB1046,LAB1046 - Magnesium (Mg),e9a62787-3a7f-492b-a949-3de80d82072f,product.categ_services_lab_test_orders,service,250
+hsc_LAB1047,LAB1047 - Malaria test,6d573e6f-148e-4c2e-a486-e61057842ebe,product.categ_services_lab_test_orders,service,150
+hsc_LAB1048,LAB1048 - Mantoux test,602ce568-b4f8-43c6-b98e-7d8bd20ebc2d,product.categ_services_lab_test_orders,service,150
+hsc_LAB1049,LAB1049 - Phosphatase Alcaline (ALKP),dc960400-3c07-48e2-8a0d-bd62276825b5,product.categ_services_lab_test_orders,service,300
+hsc_LAB1050,LAB1050 - Plaquettes Sanguines,fc930d14-b7ab-468d-be39-cae202e111bb,product.categ_services_lab_test_orders,service,250
+hsc_LAB1051,LAB1051 - Potassium (K),cc9fbad6-3ca9-4a11-a724-6e02990d0f8a,product.categ_services_lab_test_orders,service,250
+hsc_LAB1052,LAB1052 - Proteine Serique,afd0e6dc-2a11-4dfc-aa14-9f1a8810a5c8,product.categ_services_lab_test_orders,service,400
+hsc_LAB1053,LAB1053 - Proteine Totale,c5b94a4d-c5d8-418c-8379-ba57c7a49882,product.categ_services_lab_test_orders,service,250
+hsc_LAB1054,LAB1054 - PSA,a66a24f3-bd6c-432f-adeb-dc5b4b17683e,product.categ_services_lab_test_orders,service,1500
+hsc_LAB1055,LAB1055 - PT-INR,e3d21e13-3c10-445c-81c3-2d7c4eb6661d,product.categ_services_lab_test_orders,service,300
+hsc_LAB1056,LAB1056 - RPR,a5f3832b-e7ef-416b-8e0c-5252ce6e934f,product.categ_services_lab_test_orders,service,150
+hsc_LAB1057,LAB1057 - Sang Occulte,1b5a7faf-320c-4c50-8ead-6b13bbbf62cb,product.categ_services_lab_test_orders,service,200
+hsc_LAB1058,LAB1058 - Selles,1e061155-e2b1-4c86-9577-d072e16a07bc,product.categ_services_lab_test_orders,service,200
+hsc_LAB1059,LAB1059 - Sickling test,2f2207f3-c863-4e3c-8856-d8609a6e8b3b,product.categ_services_lab_test_orders,service,200
+hsc_LAB1060,LAB1060 - Sodium (Na),0571da3a-372a-404e-8082-5d0898877b3c,product.categ_services_lab_test_orders,service,200
+hsc_LAB1061,LAB1061 - T3,66099fcb-e165-4730-a608-e2f79f789b8a,product.categ_services_lab_test_orders,service,450
+hsc_LAB1062,LAB1062 - T4,dc6783bb-6af8-47a5-8938-e49f70191c24,product.categ_services_lab_test_orders,service,450
+hsc_LAB1063,LAB1063 - Taux de reticulocytes,6a08ac77-bb49-48cd-86e2-74e0f8b03713,product.categ_services_lab_test_orders,service,250
+hsc_LAB1064,LAB1064 - Triglyceride,08eb4d58-f401-4971-9321-ec043128eadb,product.categ_services_lab_test_orders,service,250
+hsc_LAB1065,LAB1065 - TSH,17e7685c-6301-4690-b676-3731974456c5,product.categ_services_lab_test_orders,service,500
+hsc_LAB1066,LAB1066 - Urée,30a6fa2f-fb90-4a9e-8489-4b29972af949,product.categ_services_lab_test_orders,service,250
+hsc_LAB1067,LAB1067 - Urines,b85566ae-acac-4885-b6a5-c940d4f9bda2,product.categ_services_lab_test_orders,service,200
+hsc_LAB1068,LAB1068 - Vitesse de Sedimentation (VS),f08b2b7c-f764-4dc8-a336-c42b575ade1a,product.categ_services_lab_test_orders,service,200
+hsc_LAB1069,LAB1069 - VLDL-Cholesterol,72adaa74-e059-47d3-b98e-7d6904eca1e7,product.categ_services_lab_test_orders,service,400
+hsc_LAB1070,LAB1070 - Widal,f19f3a62-1a0c-428a-8f33-b807182bd5d3,product.categ_services_lab_test_orders,service,200

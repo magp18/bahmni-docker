@@ -1,0 +1,165 @@
+id,name,product_variant_ids/uuid,product_variant_ids/categ_id/id,type,lst_price
+hsc_ORT1001,ORT1001 - Allongement de membre inférieur ,db7b612c-c689-4ca8-9b9d-a7ad42aa34d6,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1002,ORT1002 - Allongement tendineux,5cc5389e-21cf-4c28-a9ed-90f05eb3d492,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1003,ORT1003 - AMO sur demande du patient (Broche),ff6d5d11-68ca-4356-ad2f-faf5ce557db3,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1004,ORT1004 - AMO sur demande du patient (ECM),f04bed11-b0ad-46dd-a213-d1ca2e20bff7,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1005,ORT1005 - AMO sur Fd d'infection (1ère intervention  à l'HSC),865c1b92-1110-430e-a85e-3429b28c6468,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1006,ORT1006 - AMO sur Fd d'infection (1ère intervention hors de l'HSC),13b39504-0db9-4104-b172-d798a669e27f,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1007,ORT1007 - Amputation Avant-bras,c592737f-137b-4756-841c-cca46ae7db37,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1008,ORT1008 - Amputation bras,c58f088a-8d79-465f-99ff-dcb00a94461c,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1009,ORT1009 - Amputation Doigts ,9fa3cc4b-bd5d-4c14-85ac-c498e7c6919b,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1010,ORT1010 - Amputation du pied (lis franc),a7c5a6d2-5025-4d6a-a6d0-b3b6cec31bee,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1011,ORT1011 - Amputation orteil,b31fc48c-4d5c-4652-824c-d232ff51173d,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1012,ORT1012 - Amputation Phalange,9709edfa-6ea0-4095-b6d1-ba25061d9c99,product.categ_services_orthopedics_orders,service,12500
+hsc_ORT1013,ORT1013 - Amputation trans huméral,9cf555af-1c4d-43cc-8a58-ee4d5e1ad903,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1014,ORT1014 - Amputation trans radio-ulnaire. ,50ce8472-5619-4224-8abe-520e98af6334,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1015,ORT1015 - Amputation trans tibial,d1f55018-108e-41e8-86b2-bedb4dd9fd52,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1016,ORT1016 - Amputation transfémoral,621bd79b-c7de-49b8-88b9-179d2b3ee325,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1017,ORT1017 - Amputation transmetatarsienne,a5c5839f-1777-455a-897b-7ec7589e9c23,product.categ_services_orthopedics_orders,service,10000
+hsc_ORT1018,ORT1018 - Arthrodèse de la cheville,78407553-0ac5-4772-af53-04e740377276,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1019,ORT1019 - Arthrodèse du coude,4f6a6da0-e088-47a7-8096-b32be8829c78,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1020,ORT1020 - Arthrodèse du genou,ac3201dc-75ff-4649-9905-06223fa0105b,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1021,ORT1021 - Arthrodèse du poignet,355d8854-5e0c-4369-9733-acfd8f086562,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1022,ORT1022 - Arthrolyse de l'épaule (fermée),2f07bbe3-7b29-4e42-8db0-cee395a0fd7a,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1023,ORT1023 - Arthrolyse de l'épaule (ouverte),a1b63454-f89d-48cb-906f-e9f3ccb769b9,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1024,ORT1024 - Arthrolyse du coude (fermée),a26071c3-e16a-47ee-8763-acdcd1b9c778,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1025,ORT1025 - Arthrolyse du coude (ouverte),3515ed20-4c7d-4c88-a804-7aa340c97c7c,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1026,ORT1026 - Arthrolyse du Genou (fermée),d13fde4a-7765-484f-8c51-245978246f41,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1027,ORT1027 - Arthrolyse du Genou (ouverte),39c313c8-ee84-4188-977a-bf10e808f453,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1028,ORT1028 - Arthrolyse du poignet (fermée),ee745c56-8864-4a01-8ed2-3cce18fde3cf,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1029,ORT1029 - Arthrolyse du poignet (ouverte),7f21d6b3-c34e-40a8-ab81-8edeecb1b5d8,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1030,ORT1030 - Arthrolyse inter-phalangienne distale (fermée),05f95dd0-2083-4c1d-83e6-e69b60bd17e6,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1031,ORT1031 - Arthrolyse inter-phalangienne distale (ouverte),bc784dce-ff17-4d34-a4f5-99f730426d1b,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1032,ORT1032 - Arthrolyse inter-phalangienne proximale (fermée),655f0503-8768-450f-9017-831402795a2f,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1033,ORT1033 - Arthrolyse inter-phalangienne proximale (ouverte),d30d3bdd-9087-4fce-af9e-645b7f239644,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1034,ORT1034 - Arthrolyse Métacarpo-phalangienne (fermée),99fb30bb-332a-4c31-8ee4-b8299c0d6685,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1035,ORT1035 - Arthrolyse Métacarpo-phalangienne (ouverte),2003f9f0-101e-4bf3-b84d-2436997f00ff,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1036,ORT1036 - Arthroplastie de Hanche,e081e43a-e7e5-4dfe-a33b-ef9c32863edc,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1037,ORT1037 - Arthroplastie de l'épaule,d6b6b3ce-e823-43a9-8a5a-565e1bc07562,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1038,ORT1038 - Arthroplastie du coude,b61df7f6-b47f-40ae-8d5e-dbe3c3d72885,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1039,ORT1039 - Arthroplastie du genou,d4586bb0-0233-43be-8762-bc6c719e844f,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1040,ORT1040 - Biopsie Exerese / main,638c3253-ffd3-47cb-8857-c758346e2fcf,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1041,ORT1041 - Biopsie pied,161088fc-2362-4eda-8e3b-bac2484fcf37,product.categ_services_orthopedics_orders,service,10000
+hsc_ORT1042,ORT1042 - Buté osseuse de Bankart (Luxation récidivante),b5f6604b-f63c-4533-b3da-60b163242fa4,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1043,ORT1043 - Carpectomie,44c1aa40-48e7-4252-b102-dc0f22c95ef2,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1044,ORT1044 - Cerclage Péritendineux,3771cc9b-2626-4806-9cf9-9479c1cf4d55,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1045,ORT1045 - Club foot repair bilateral ,a3e920a7-3315-405b-abb5-e103c846f23c,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1046,ORT1046 - Club foot repair unilateral,d3f7ada4-cbe1-4bfe-a375-1a3f3f0aa9f6,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1047,ORT1047 - Cross-finger flap,819ee102-ed2a-40dc-aa13-245f49e58abc,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1048,ORT1048 - Crossleg flap,fadf2eb5-4544-4197-b4cb-6be0dd05af85,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1049,ORT1049 - Debridement+lavage+parage,46354445-504f-466a-a3cd-f1aa23b24f50,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1050,ORT1050 - Déplatrage court Menbres inf,6944b557-7e48-4dde-8683-d892a8e7bbd6,product.categ_services_orthopedics_orders,service,500
+hsc_ORT1051,ORT1051 - Déplatrage court Menbres sup,6f998d84-e9f2-4d9e-8381-9f66af46cb67,product.categ_services_orthopedics_orders,service,500
+hsc_ORT1052,ORT1052 - Déplatrage long Menbres inf,2db5efaf-0963-4c0b-bd51-d06850d37a07,product.categ_services_orthopedics_orders,service,500
+hsc_ORT1053,ORT1053 - Déplatrage long Menbres sup,925ca9d7-646f-4f13-9a61-0fbd8b6e3b3f,product.categ_services_orthopedics_orders,service,500
+hsc_ORT1054,ORT1054 - Désarticulation de Chopard ,b9cc88dd-a29d-40c7-b0d4-bee8f65706a3,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1055,ORT1055 - Désarticulation de hanche,e33d565c-40d0-40b4-9b71-45f104e87415,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1056,ORT1056 - Désarticulation de l'épaule ,9ded5748-e400-4dd7-bc8e-ee23dd62ed42,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1057,ORT1057 - Désarticulation de lisfranc,e9edeef8-80b5-45e1-9947-5a144ab2912d,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1058,ORT1058 - Désarticulation du coude,010efd32-59e3-48ed-ade1-3e6388a93d8b,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1059,ORT1059 - Désarticulation du genou,94899878-88b1-4f6a-afde-48ba050ca809,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1060,ORT1060 - DHS (Hanche),79cace0b-f97f-4d1a-8fe6-d29c451165d3,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1061,ORT1061 - Doigt surnumeraire infecte,6a0952cc-9112-42d5-b601-dbf489719bdd,product.categ_services_orthopedics_orders,service,5000
+hsc_ORT1062,ORT1062 - Drainage Absces,522ef43a-81d2-4245-933f-7abe953bdd4f,product.categ_services_orthopedics_orders,service,5000
+hsc_ORT1063,ORT1063 - Droigt a ressaut (Triger finger),ba51033b-56d5-46f4-b0f8-013b2eb979e4,product.categ_services_orthopedics_orders,service,12000
+hsc_ORT1064,ORT1064 - ECM du Femur ,b5fd4af3-2f29-4572-919d-4303902e1412,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1065,ORT1065 - ECM du tibia,35874eea-efa5-4853-8fb7-a2246ae85db0,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1066,ORT1066 - Embrochage per cutane,427e137e-7e94-441a-b4d2-7759a03e5a83,product.categ_services_orthopedics_orders,service,10000
+hsc_ORT1067,ORT1067 - Embrochage per cutane fx supra cond. Hum. (enfant),1fe68403-3fb1-4125-b1ed-6e412b3abc16,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1068,ORT1068 - Embrochage per-cutanee fx supra condylienne humér chez l'enfant,90d859ba-cb76-4fc2-ab9d-145b07046ccc,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1069,ORT1069 - Embrocharge poignet,0386dd82-6c1c-4ac4-94b6-2292548f47e9,product.categ_services_orthopedics_orders,service,10000
+hsc_ORT1070,ORT1070 - Enlèvement fixateur Externe-En clinique,97a6ecd2-86a9-49bd-8bfd-9bf0b39934a9,product.categ_services_orthopedics_orders,service,750
+hsc_ORT1071,ORT1071 - Enlèvement fixateur Externe-En SOP,cda26a78-9992-4baa-b4aa-80cf9ab8d8c4,product.categ_services_orthopedics_orders,service,1000
+hsc_ORT1072,ORT1072 - Exérèse de la tête fémoral,a8856a50-3e45-4d4d-949a-a95bf9356ebe,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1073,ORT1073 - Exérèse Nodule Face plantaire,be5df63a-5007-4883-b436-a7c13bf68bca,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1074,ORT1074 - Exérèse tête radial,baf3aa40-95c7-4f2f-bd7e-01cd4797b3c5,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1075,ORT1075 - Flap des jumeaux,c6884810-e269-4e54-846e-52b0041f6a4f,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1076,ORT1076 - Flap du soléaire,05f6cf30-acf9-4e3e-beb3-23f3549bd214,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1077,ORT1077 - Fracture du bassin,acf1f4e9-e93d-4dca-87a0-bdb17c708268,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1078,ORT1078 - Ganglion Cyst Exerese,fb7eccdc-d820-42a2-b197-b0148d788b50,product.categ_services_orthopedics_orders,service,5000
+hsc_ORT1079,ORT1079 - Ganglionique cyst. Inj.,c677ef3c-6a1b-4733-90b1-549532de9219,product.categ_services_orthopedics_orders,service,1000
+hsc_ORT1080,ORT1080 - Greffe de peau mince,6f3cf8d4-644e-4196-8d5c-1b25f2588d95,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1081,ORT1081 - Greffe osseuse,80aa5ba0-3800-41e0-8ba9-fb79deb837b1,product.categ_services_orthopedics_orders,service,35000
+hsc_ORT1082,ORT1082 - Groin flap,2d435d80-06b9-4f52-84a6-7e55a78b4250,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1083,ORT1083 - Haubanage rotule,e495f716-8f34-41ca-9825-5acafa57ec68,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1084,ORT1084 - Haubannage,51640461-010f-4186-bd5f-9a1998fe0023,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1085,ORT1085 - Hemi arthroplastie de la hanche,a010d448-4a64-496e-93ab-f5fe489fc50d,product.categ_services_orthopedics_orders,service,35000
+hsc_ORT1086,ORT1086 - Incision et drainage,8d2e94e7-5b7e-4db2-b760-057d97e9a0d4,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1087,ORT1087 - Lavage et  fixateur externe 2 os de l'avant-bras,f6aa42fa-e907-432a-97b3-f22a918959a3,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1088,ORT1088 - Lavage et fixateur externe cheville,23fa7ae4-b5a2-4661-ad37-e0502839e29f,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1089,ORT1089 - Lavage et fixateur externe femur,ca53b35b-4d8d-4a97-8c12-ac638b39d26d,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1090,ORT1090 - Lavage et fixateur externe humerus,c473ff82-d2ea-4fb7-a218-3786924bbe48,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1091,ORT1091 - Lavage et fixateur externe tibia,ce728c1f-9daf-4a42-9ef7-cb5f0b04d615,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1092,ORT1092 - Ligamentotaxis radius distal,c1f9180c-4cca-41c7-80af-802e3142ef8d,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1093,ORT1093 - Ligametotaxis cheville,3983a9f4-5708-4cef-aaf1-2c40da268526,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1094,ORT1094 - Méniscectomie partielle,791c14ca-a9a6-4cad-b16e-132c2940ef86,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1095,ORT1095 - Méniscectomie total.,ea761b1e-e8cd-49e1-9045-72a0deb7ed95,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1096,ORT1096 - Mise à Plat de cal vicieux,34857198-976c-4ac2-81ab-d9c332911017,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1097,ORT1097 - Mise en Echarpe,137dc14c-fd75-4744-a412-ada9d3cd4a9a,product.categ_services_orthopedics_orders,service,500
+hsc_ORT1098,ORT1098 - Neurolyse du Nerf Médian (Carpal tunnel release),4a2f7bc8-97dc-421d-bc7d-297fdc22404c,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1099,ORT1099 - Neurolyse du nerf sciatique.,d0e9a5bd-2ffe-4102-9d0e-4b89216fa812,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1100,ORT1100 - Neurolyse du nerf Ulnaire,143b0888-bba3-41c4-99e9-d46fbadd4aab,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1101,ORT1101 - Neurorraphie,21161db3-2bf2-4c19-b5e2-075140450f04,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1102,ORT1102 - Ostéotomie correctrice du Fémur,d7565103-b7d8-4d10-ad94-40c52d541667,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1103,ORT1103 - Ostéotomie correctrice du Tibia,17498551-b389-47d8-8784-a5e0dfb81436,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1104,ORT1104 - Plaque vissee,68cc8110-2a7d-4eca-9d0c-6fdf0707d655,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1105,ORT1105 - Raccourcissement de membre inférieur ,dd8b4a1f-4a21-44e4-b31a-c2e33129e49b,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1106,ORT1106 - Radial forearm flap,57335a87-4960-4273-9227-81ffaaebc511,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1107,ORT1107 - Reconstitut. osseuse ( Transport osseuse; Masquelet; Tibialisation du Péroné.),ca7a18ef-e9ca-4b4a-9879-80cf1240187b,product.categ_services_orthopedics_orders,service,35000
+hsc_ORT1108,ORT1108 - Reconstruction du cotyle,c9b77e71-6a24-440d-9db4-f4ca7f6a3181,product.categ_services_orthopedics_orders,service,40000
+hsc_ORT1109,ORT1109 - Reconstruction ligamentaire.,3fe9d1e3-2cfe-4dd3-81ee-72560e2e8f20,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1110,ORT1110 - Réduction et embrochage luxation du semi-lunaire.,7462fb4c-d2f8-4df0-9db8-75b18ddbc8e4,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1111,ORT1111 - Réduction fermée de Luxation de l'Epaule,c40f527d-c458-40a1-afb4-cb7b256e4f85,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1112,ORT1112 - Réduction fermée de Luxation du coude,153175e7-ae6e-4597-a41f-36bb2c5a8b8e,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1113,ORT1113 - Réduction fermée de Luxation Metacarpo-Phalangienne,ec12fe65-cfc9-417e-a4b8-f99cae5509c6,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1114,ORT1114 - Réduction fermée luxation de hanche,7e56e4f9-8657-4ddc-8a55-71b5475e2b12,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1115,ORT1115 - Reduction fracture fermée & platre,32461d5e-6f78-4044-9449-27f128aaa383,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1116,ORT1116 - Reduction fracture fermée & platre Embrochage,1178b8ae-bd64-4c62-ad6f-115ee999c037,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1117,ORT1117 - Reduction fracture ouverte mbre infer,3857431b-88af-469c-8602-c6a29b3a0e17,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1118,ORT1118 - Reduction fracture ouverte mbre sup.,b58c6fe3-b7e9-419c-accf-5bcfb21dff42,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1119,ORT1119 - Reduction luxation de la hanche,861477b5-65e8-430b-8712-745fbe82a4ad,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1120,ORT1120 - Réduction ouverte de Luxation négligée de l'Epaule,d7835d6d-89fb-43e3-a7f9-7506fe951432,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1121,ORT1121 - Réduction ouverte de Luxation Négligée du coude.,f6cbb353-d52b-4209-a6ec-671acf58215c,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1122,ORT1122 - Réduction ouverte de Luxation Négligée Metacarpo-Phalangienne,a65637f5-9fe5-4dd2-9cf4-860ded02aef7,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1123,ORT1123 - Réduction ouverte luxation négligée de hanche,a2b8a894-54d7-4ab6-9f16-35908ac77b90,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1124,ORT1124 - Remise sur tension de Latarjet de l'épaule (luxation récidivante),7e8e8bf3-2301-4d7a-90ea-b247119105dd,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1125,ORT1125 - Reprise de moignon (1ère intervention à l'HSC),6decc9dc-ba1e-4a0f-bf86-eab461400080,product.categ_services_orthopedics_orders,service,10000
+hsc_ORT1126,ORT1126 - Reprise de moignon (1ère intervention hors de l'HSC),56c3e210-4da2-4c50-befb-5a6ecd9be9e2,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1127,ORT1127 - Rétablissement de la prono-supination du poignet (technique de Kapandji),1a3d78ce-a8c8-4338-ba48-16d86b2c3311,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1128,ORT1128 - Reverse sural flap,dd200674-f74c-4e73-b5ad-65b18be5c9e9,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1129,ORT1129 - ROFI -  Clavicule par Plaque vissee Vs embrochage,6721451c-0c30-4932-a753-84b4dc2d8f58,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1130,ORT1130 - ROFI - Cheville,89557f3f-537d-455e-b193-912a59e8c5cd,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1131,ORT1131 - ROFI 2 os de l'avant-bras,6ee564ea-8b84-49df-931e-0bb0304930e2,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1132,ORT1132 - ROFI bassin,79c115f6-360c-49fa-a149-71184260adac,product.categ_services_orthopedics_orders,service,35000
+hsc_ORT1133,ORT1133 - ROFI cheville,e5a498e2-7e0e-4c20-a428-4e5686aa3107,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1134,ORT1134 - ROFI Clavicule par plaque vissée vs embrochage.,1f6f68a7-1acf-4087-80dc-154693e7ec45,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1135,ORT1135 - ROFI Femur,c46b329b-43ec-4161-b4ba-2ea31be66d2d,product.categ_services_orthopedics_orders,service,35000
+hsc_ORT1136,ORT1136 - ROFI Femur distal,f4e31c20-22e0-4f84-add7-d69cdfb14199,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1137,ORT1137 - ROFI Humérus distal par plaque vissée vs vissage.,dae4ac73-f0bf-4d79-8516-4dc07a6d5991,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1138,ORT1138 - ROFI Humerus par plaque visse Vs ECM,67c7ef1b-3947-480f-b3c0-eb3c09fd54f1,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1139,ORT1139 - ROFI Humerus proximal par plaque visee Vs vissage,f64d1fe3-a497-4686-bb8d-fe22beb92073,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1140,ORT1140 - ROFI Humérus proximal par plaque vissée vs embrochage. ,5b8bb2fa-6b6c-4682-a191-fc28af0bda23,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1141,ORT1141 - ROFI Metacarpienne,5e19ff1a-fe8c-4c60-a535-6d029d870222,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1142,ORT1142 - ROFI Metatarsienne,705bb900-d2fb-4c21-986a-6968ff2a9fcd,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1143,ORT1143 - ROFI Olecrane par haubannage/ Vs vissage/ plq vissee,b08975a9-bb72-4168-9e85-7efcd64900e8,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1144,ORT1144 - ROFI Radius distal,0ba1b911-09c6-4471-acda-df8aa2ffe937,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1145,ORT1145 - ROFI scarphoide poignet,a191937e-2dd2-4e07-a653-feff9da76fd8,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1146,ORT1146 - ROFI tibia distal,b3259f62-9569-4053-b544-bcd763428f7b,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1147,ORT1147 - ROFI tibia proximal,0ad94641-8f7a-4b3b-94b1-e85b1e98b7d0,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1148,ORT1148 - Sequestratectomie-Membres inférieurs,a8bcd5bd-5086-4694-96de-e14876452326,product.categ_services_orthopedics_orders,service,35000
+hsc_ORT1149,ORT1149 - Spica,231515a3-5e31-45ee-94cd-54636c5028be,product.categ_services_orthopedics_orders,service,5000
+hsc_ORT1150,ORT1150 - Tenolyse de la Coiffe des Rotateurs,ff04256c-c05a-4e42-a022-48ba77e88dee,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1151,ORT1151 - Tenolyse de Quervain,53f07694-c88e-4379-bb3e-fe48b8409fac,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1152,ORT1152 - Tenolyse du Golf Elbow,d50545c4-9dc5-4f7c-88ef-fa9e2c254c58,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1153,ORT1153 - Tenolyse du Tennis Elbow,d47b5390-d1a6-41fd-8e22-75ceed0cb73b,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1154,ORT1154 - Tenorraphie,80e90f50-9f35-4f39-a19f-b40cfb0d0215,product.categ_services_orthopedics_orders,service,25000
+hsc_ORT1155,ORT1155 - Tenorraphie +Réduction,39732b7e-193e-4d00-ae73-a68707b53040,product.categ_services_orthopedics_orders,service,30000
+hsc_ORT1156,ORT1156 - Traitement de Pseudarthrose de la Clavicule ,48a4347f-c2ac-42f0-b362-fbfaff2868cd,product.categ_services_orthopedics_orders,service,5000
+hsc_ORT1157,ORT1157 - Traitement de Pseudarthrose de l'Humérus,6e1b0762-c77b-4708-80cb-b95e611aa636,product.categ_services_orthopedics_orders,service,5000
+hsc_ORT1158,ORT1158 - Traitement de Pseudarthrose des deux os de l'avant-bras ,1167ea27-7e33-4f0e-8a16-85f07f7d2fa5,product.categ_services_orthopedics_orders,service,5000
+hsc_ORT1159,ORT1159 - Traitement de Pseudarthrose du fémur,7a5e8995-bce5-48f3-9898-5a1ac8927a35,product.categ_services_orthopedics_orders,service,7500
+hsc_ORT1160,ORT1160 - Traitement de Pseudarthrose du scaphoïde ,c7ddd2d4-4d0a-421c-a882-680806651302,product.categ_services_orthopedics_orders,service,5000
+hsc_ORT1161,ORT1161 - Traitement de Pseudarthrose du tibia,42dfb27f-c41e-4cc8-86c5-ae5a64f274a6,product.categ_services_orthopedics_orders,service,5000
+hsc_ORT1162,ORT1162 - Transfert tendineux,2e43b12a-fcde-4bac-a473-be3fca6f4e18,product.categ_services_orthopedics_orders,service,15000
+hsc_ORT1163,ORT1163 - Vissage Astragal ,6f01609a-a4ff-4d3a-bd03-3f288d32dc80,product.categ_services_orthopedics_orders,service,20000
+hsc_ORT1164,ORT1164 - Vissage calcaneum,3200451a-051a-4fe2-9cbf-3775552928a6,product.categ_services_orthopedics_orders,service,20000

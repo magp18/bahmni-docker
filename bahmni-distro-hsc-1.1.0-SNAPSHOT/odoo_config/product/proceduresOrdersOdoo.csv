@@ -1,0 +1,35 @@
+id,name,product_variant_ids/uuid,product_variant_ids/categ_id/id,type,lst_price
+hsc_PRO1001,PRO1001 - Ablation des Agraffes,153ee42a-fe4b-401d-bf82-9b3c804cee73,product.categ_services_procedure_orders,service,300
+hsc_PRO1002,PRO1002 - Ablation des fils de suture,0b9bb49c-f7e8-4f3b-b486-05242ea3536d,product.categ_services_procedure_orders,service,250
+hsc_PRO1003,PRO1003 - Alèze,7bc5d407-ed86-40f6-9331-55fabdd65f4e,product.categ_services_procedure_orders,service,50
+hsc_PRO1004,PRO1004 - Canule Nasale,111f4479-469c-41a0-a1d5-78093745f2ae,product.categ_services_procedure_orders,service,250
+hsc_PRO1005,PRO1005 - Cathetérisme ombilicale,cffb0001-a257-4484-8449-948e56a003fe,product.categ_services_procedure_orders,service,500
+hsc_PRO1006,PRO1006 - Cathetérisme vesical continu,d766dd3e-3048-4f70-9fd0-893350b6cbcc,product.categ_services_procedure_orders,service,300
+hsc_PRO1007,PRO1007 - Cathetérisme vesical intermitent,68729c37-cfc3-4e31-986d-1711f9432c42,product.categ_services_procedure_orders,service,250
+hsc_PRO1008,PRO1008 - CPAP/par jour,f6a0837d-1571-4dc5-8a7a-68a51d5c32fb,product.categ_services_procedure_orders,service,500
+hsc_PRO1009,PRO1009 - Cystoscopie,cc9f9672-acd1-4c98-a518-758994f9971a,product.categ_services_procedure_orders,service,2500
+hsc_PRO1010,PRO1010 - Gaz sanguin,a1343653-83dc-4ed1-9051-e329d3bd3bd7,product.categ_services_procedure_orders,service,600
+hsc_PRO1011,PRO1011 - Incubateur/par jour,567da8ae-f107-49bb-b21e-b254c69b9674,product.categ_services_procedure_orders,service,1000
+hsc_PRO1012,PRO1012 - Infiltration De Cortisone (médicament compris),f4a7a3fb-d656-4faf-a6f4-9fcba7e36543,product.categ_services_procedure_orders,service,1500
+hsc_PRO1013,PRO1013 - Insertion tube de levine,368cf4ee-0116-4388-9ad4-bffc5291b559,product.categ_services_procedure_orders,service,150
+hsc_PRO1014,PRO1014 - Insertion voie veineuse centrale,70de9662-5984-4edf-9d98-80d4a64f1a10,product.categ_services_procedure_orders,service,750
+hsc_PRO1015,PRO1015 - Lavage Vésical,052472f4-b7f1-491c-b282-a20e79df120e,product.categ_services_procedure_orders,service,2000
+hsc_PRO1016,PRO1016 - Manipulation,d06dd294-e93c-4a57-9f94-fd93df2d4564,product.categ_services_procedure_orders,service,5000
+hsc_PRO1017,PRO1017 - Nébulisation,88683d0b-f01b-48c8-a5b0-4f6187d6ecdf,product.categ_services_procedure_orders,service,250
+hsc_PRO1018,PRO1018 - Paracenthèse,2eb57104-bac3-46fd-9197-a2b27c0015dd,product.categ_services_procedure_orders,service,400
+hsc_PRO1019,PRO1019 - Photothérapie/par jour,93975bc8-2449-4b21-af04-d38a06bee2d4,product.categ_services_procedure_orders,service,1000
+hsc_PRO1020,PRO1020 - Physiothérapie,a595a893-4a93-4d42-bac9-6dc16bb19e2b,product.categ_services_procedure_orders,service,200
+hsc_PRO1021,PRO1021 - Ponction Lombaire,ec2dc1e3-af09-4268-aeea-d0a920143e7a,product.categ_services_procedure_orders,service,500
+hsc_PRO1022,PRO1022 - Pose d'atelle court/membres inférieurs  ,be0a9e97-3eae-48b1-b310-aa8f798e8d9e,product.categ_services_procedure_orders,service,500
+hsc_PRO1023,PRO1023 - Pose d'atelle court/membres Supérieurs  ,d0fe01a2-e2a5-43ce-ae67-f1ffabd2dbbd,product.categ_services_procedure_orders,service,250
+hsc_PRO1024,PRO1024 - Pose d'atelle long/membres inférieurs ,2586f3aa-ca6a-4af4-91e5-cbab048b4ab5,product.categ_services_procedure_orders,service,750
+hsc_PRO1025,PRO1025 - Pose d'atelle long/membres Supérieurs ,3c08c97e-9ef4-4e4c-b0f8-74bcca96688e,product.categ_services_procedure_orders,service,500
+hsc_PRO1026,PRO1026 - Pose de platre court/membres inférieurs,e2ea323c-8be0-4742-896f-86189061449c,product.categ_services_procedure_orders,service,1000
+hsc_PRO1027,PRO1027 - Pose de platre court/membres supérieurs,e509807d-33e0-4320-9f99-08e3282cfd7b,product.categ_services_procedure_orders,service,750
+hsc_PRO1028,PRO1028 - Pose de platre long/membres inférieurs,c496ca66-1ab3-47bd-b6e5-7f060e7fb343,product.categ_services_procedure_orders,service,1500
+hsc_PRO1029,PRO1029 - Pose de platre long/membres supérieurs,226a758f-2f73-4ed5-b8be-20483ac6a67f,product.categ_services_procedure_orders,service,1000
+hsc_PRO1030,PRO1030 - Prélèvement Pap test,5b1775cc-c4d7-4f3a-bc4a-796efc276d36,product.categ_services_procedure_orders,service,1000
+hsc_PRO1031,PRO1031 - Ramonage des selles,21154452-18e8-43d4-be7b-f64ce379d939,product.categ_services_procedure_orders,service,1000
+hsc_PRO1032,PRO1032 - Thoracenthese,a2e096a3-6b15-432b-bc3f-4d98a231e3fc,product.categ_services_procedure_orders,service,750
+hsc_PRO1033,PRO1033 - Traction de Burck,893aede2-6073-4295-b248-87499bad873a,product.categ_services_procedure_orders,service,3000
+hsc_PRO1034,PRO1034 - Voie Centrale,531edc62-eee0-4647-9887-9cf06109c3e7,product.categ_services_procedure_orders,service,2000
