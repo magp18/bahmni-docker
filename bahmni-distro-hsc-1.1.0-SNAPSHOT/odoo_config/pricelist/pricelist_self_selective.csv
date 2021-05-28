@@ -1,2 +1,0 @@
-id,name,discount_policy,sequence,currency_id/id,item_ids/applied_on,item_ids/base,item_ids/compute_price,item_ids/min_quantity,item_ids/fixed_price,item_ids/product_tmpl_id/id
-init.product_pricelist_Self_selective,Self Pay - Selective Case,Discount included in the price,1,base.HTG,Global,Public Price,Percentage (discount),1
