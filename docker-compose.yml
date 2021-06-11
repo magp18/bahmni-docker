@@ -312,6 +312,10 @@ services:
       OPENELIS_DB_USER: ${OPENELIS_DB_USER}
       OPENELIS_DB_PASSWORD: ${OPENELIS_DB_PASSWORD}
       OPENELIS_DB_NAME: ${OPENELIS_DB_NAME}
+      # OpenELIS DB Vars
+      OPENIMIS_DB_USER: ${OPENIMIS_DB_USER}
+      OPENIMIS_DB_PASSWORD: ${OPENIMIS_DB_PASSWORD}
+      OPENIMIS_DB_NAME: ${OPENIMIS_DB_NAME}
     networks:
       bahmni:
         aliases:
@@ -408,6 +412,35 @@ services:
           - openelis
     volumes:
       - ./properties/openelis/:/etc/properties/
+  insurance-integration:
+    build: bahmni-insurance/
+    depends_on:
+      - postgresql
+    environment: 
+      # OpenIMIS DB Vars
+      OPENIMIS_DB_USER: ${OPENIMIS_DB_USER}
+      OPENIMIS_DB_PASSWORD: ${OPENIMIS_DB_PASSWORD}
+      OPENIMIS_DB_NAME: ${OPENIMIS_DB_NAME}
+      # OpenMRS Vars
+      OPENMRS_DB_PASSWORD: ${OPENMRS_DB_PASSWORD}
+      OPENMRS_DB_USERNAME: ${OPENMRS_DB_USER}
+      OPENMRS_PASSWORD: ${OPENMRS_PASSWORD}
+      OPENMRS_USER: ${OPENMRS_USER}
+      # OpenELIS DB vars
+      OPENELIS_DB_USER: ${OPENELIS_DB_USER}
+      OPENELIS_DB_PASSWORD: ${OPENELIS_DB_PASSWORD}
+      # Odoo Vars
+      ODOO_DB: odoo
+      ODOO_DB_USERNAME: ${ODOO_DB_USER}
+      ODOO_DB_PASSWORD: ${ODOO_DB_PASSWORD}
+    networks:
+      bahmni:
+        aliases:
+          - openimis
+    volumes:
+      - ./properties/openimis/insurance-integration.properties:/etc/insurance-integration/insurance-integration.properties
+    ports:
+      - "${openIMIS_PUBLIC_PORT:-8092}:8092"
 
 version: "3.7"
 volumes:
